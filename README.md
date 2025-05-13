@@ -15,6 +15,9 @@ View the interactive dashboard on Tableau Public:
 - **Prescriptive Insights**: Identify root causes of performance trends.
 - **Visualizations**: Bar charts, line graphs, pie chart, packed bubble and map for intuitive insights.
 
+## Dataset
+Tableau Superstore dataset: [Link](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls?language=en_US)
+
 ## Tools Used
 - Tableau Public
 - Superstore dataset (publicly available from Tableau)
