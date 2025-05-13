@@ -13,7 +13,7 @@ View the interactive dashboard on Tableau Public:
 - **Dynamic Filters**: Filter by region, category, and time period.
 - **Drill-Down Analysis**: Explore detailed sales and profit metrics.
 - **Prescriptive Insights**: Identify root causes of performance trends.
-- **Visualizations**: Bar charts, line graphs, and heatmaps for intuitive insights.
+- **Visualizations**: Bar charts, line graphs, pie chart, packed bubble and map for intuitive insights.
 
 ## Tools Used
 - Tableau Public
